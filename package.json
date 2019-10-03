@@ -34,7 +34,7 @@
     "react-dom": ">=16.8.0"
   },
   "scripts": {
-    "prepare": "npm run build",
+    "prepare": "$npm_execpath run build",
     "build": "tsc --build tsconfig.json",
     "test": "jest"
   }
