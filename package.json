@@ -1,7 +1,10 @@
 {
   "name": "react-state-tree",
   "version": "0.1.0",
-  "main": "index.js",
+  "main": "dist/index.js",
+  "files": [
+    "dist/"
+  ],
   "license": "MIT",
   "author": "Lily Scott <me@suchipi.com>",
   "repository": "suchipi/react-state-tree",

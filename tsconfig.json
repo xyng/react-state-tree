@@ -3,7 +3,8 @@
     "esModuleInterop": true,
     "module": "commonjs",
     "target": "es5",
-    "jsx": "react"
+    "jsx": "react",
+    "outDir": "dist"
   },
   "files": ["index.tsx"]
 }
